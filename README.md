@@ -18,7 +18,7 @@ Before deployment, I need to answer four questions:
 
 Questions I want to answer:
 
-1. Validation: Am I measuring model performance correctly?
+1. Validation: How should I evaluate a four-week forecasting model to establish whether its predictions will remain reliable when predicting future harvests?
 2. History: How much historical information does the model need?
 3. Model strategy: Should stores share a model or have individual models?
 4. Tuning: Am I genuinely improving the model or just fitting my validation data?
